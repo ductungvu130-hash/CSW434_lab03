@@ -1,0 +1,12 @@
+node_modules/
+.gradle/
+build/
+.cxx/
+.kotlin/
+.npm-cache/
+android/local.properties
+*.log
+*.hprof
+*.keystore
+~$*
+/Lab3.docx
